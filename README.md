@@ -17,4 +17,6 @@ Inu + Neko has recently launched an e-commerce business and has seen significant
 - Analyze the effectiveness of marketing campaigns using appropriate metrics and techniques.
 - Utilize data visualization techniques to present key findings and insights in an accessible and impactful manner.
 
-## 
+## RECOMENDATIONS
+I)INVENTORY MANAGEMENT:
+II) MARKETING AND PROMOTION
